@@ -28,7 +28,5 @@ jobs:
         - name: Print My job
           run: | 
               echo My Job is running
-          
-        - name: Gradle Clean
-          run: gradlew clean
+        
      
