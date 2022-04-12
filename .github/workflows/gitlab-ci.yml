@@ -28,5 +28,8 @@ jobs:
         - name: Print My job
           run: | 
               echo My Job is running
+              
+        - name: GenerateAPK
+          run: fastlane debug
         
      
