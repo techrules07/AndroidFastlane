@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 json_key_file("../Keys/keys.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+=======
+json_key_file("/keys/") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+>>>>>>> 8fd554e2181b5bf51fa6014e23ba5185da09a6c4
 package_name("com.example.androidfastlane") # e.g. com.krausefx.app

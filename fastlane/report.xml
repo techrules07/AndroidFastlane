@@ -5,12 +5,20 @@
     
     
       
+<<<<<<< HEAD
       <testcase classname="fastlane.lanes" name="0: default_platform" time="0.0027389">
+=======
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.0024934">
+>>>>>>> 8fd554e2181b5bf51fa6014e23ba5185da09a6c4
         
       </testcase>
     
       
+<<<<<<< HEAD
       <testcase classname="fastlane.lanes" name="1: clean assembleRelease" time="22.3677408">
+=======
+      <testcase classname="fastlane.lanes" name="1: clean assembleDebug" time="32.8571085">
+>>>>>>> 8fd554e2181b5bf51fa6014e23ba5185da09a6c4
         
       </testcase>
     
